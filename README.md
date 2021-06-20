@@ -17,8 +17,11 @@ Al sinds 2015 speel ik met veel plezier en ook frustratie de populaire online ga
 Features
 
 Elk potje is voorzien van een timer die de duratie van het spel bijhoudt. 
+
 Elk potje is uniek doordat er elke keer een andere heatmap ontstaat en elke keer een andere winnaar is. 
+
 Het spel speelt zich af in 30 seconde waarna er een random winnaar wordt gekozen. 
+
 De game kan worden gerefreshed met een random key. 
 
 Onderzoek & inspiratie 
