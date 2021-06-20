@@ -1,3 +1,14 @@
+Over
+
+Naam: Renée Strinnholm
+        
+Klas: VID-1b
+        
+Minor: Visual Interface Design
+
+
+
+        
 Concept
 
 Als ik nadenk over wat echt bij mij past dan is het gamen (geen stereotype gamer). Ik heb door de jaren heen veel verschillende spellen gespeeld maar er is er eentje waar ik maar niet mee kan stoppen.
@@ -31,7 +42,13 @@ De weken daarna heb ik veel video’s gezien van The Coding Train, maar ik had e
 
 
 
+
 Bronnen
+
+
+
 https://www.esportstips.nl/games/league-of-legends/
+
 https://www.nytimes.com/interactive/2014/10/10/technology/league-of-legends-graphic.html
+
 https://vwo.com/blog/mouse-heatmap/
