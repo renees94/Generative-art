@@ -93,8 +93,8 @@ Ik heb een lijstje gemaakt met dingen die ik er echt in wou hebben.
 -Victory
 
 De dingen die te moeilijk waren, of niet mogelijk waren met p5 heb ik laten gaan en het uiteindelijke resultaat is toch iets dat heel erg lijkt op wat ik in gedachte had. 
+![image](https://user-images.githubusercontent.com/79923265/122691171-47cedd00-d22e-11eb-8322-6686f5550929.png)
 
-![image](https://user-images.githubusercontent.com/79923265/122691156-31288600-d22e-11eb-8463-0d62b1b84e0e.png)
 
 
 
