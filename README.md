@@ -65,6 +65,12 @@ League of Legends is een mulitplayer online battle arena (MOBA), waarbij je als 
 
 Op zoek naar inspiratie ben ik een artikel van The New York Times tegengekomen waarin een video te zien is met de activiteit van 100.000 spelers in 10.000 potjes. Alle kleine stipjes representeren waar een persoon is geweest en dus waar iemand heeft geklikt met de muis. Als ik verder zoek naar mouse tracking dan krijg ik interessante patronen te zien. ook de typische kleuren die gebruikt worden, van blauw (weinig activiteit) tot fel rood (veel activiteit) wil ik laten terug komen.       
 
+
+![image](https://user-images.githubusercontent.com/79923265/122690845-10f7c780-d22c-11eb-9042-895cafc80d0f.png)
+
+
+
+
 Voortgang
 Voordat ik aan deze minor begon had ik nul ervaring met coden. Tijdens het vak web-typography heb ik de basis geleerd… maar daar blijft het dan ook bij. Het is voor mij echt een uitdaging om iets te maken met p5. Om te beginnen heb ik eerst naar generative art voorbeelden gekeken om te kijken wat er mogelijk was. Toen wist ik al vrij snel wat ik ongeveer zou willen en wat het onderwerp en idee voor mij generative art opdracht moest gaan worden.   
 De weken daarna heb ik veel video’s gezien van The Coding Train, maar ik had er voor mijn eigen werk niet zo veel aan. Ik heb eindeloos gezocht naar voorbeelden of codes die mij zouden helpen maar ik kwam niet verder. Ik heb het daarom helaas ook lang uitgesteld 😊. Dingen waar ik tegen aanliep: 
