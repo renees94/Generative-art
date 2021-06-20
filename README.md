@@ -8,6 +8,27 @@ Minor: Visual Interface Design
 
 
 
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/79923265/122690625-fa04a580-d22a-11eb-80aa-4ed59efc5170.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
         
 Concept
 
