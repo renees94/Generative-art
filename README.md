@@ -16,7 +16,13 @@ Al sinds 2015 speel ik met veel plezier en ook frustratie de populaire online ga
 
 Features
 
+Elk potje is voorzien van een timer die de duratie van het spel bijhoudt. 
+Elk potje is uniek doordat er elke keer een andere heatmap ontstaat en elke keer een andere winnaar is. 
+Het spel speelt zich af in 30 seconde waarna er een random winnaar wordt gekozen. 
+De game kan worden gerefreshed met een random key. 
+
 Onderzoek & inspiratie 
+
 League of Legends is een mulitplayer online battle arena (MOBA), waarbij je als speler een personage speelt dat lid is van één van twee teams: het rode team of het blauwe team. Er wordt tegen computergestuurde personages of andere menselijke spelers gespeeld. Doel van het spel: de Nexus van het andere team vernietigen. Tijdens het spel kan je geld verdienen waarmee je voorwerpen kunt kopen om zo sterker te worden. De map van het spel bestaat uit meerdere banen. Deze kunnen vanuit de basis of vanaf de zijkanten betreden worden.
 
 
