@@ -14,15 +14,22 @@ Concept
 Als ik nadenk over wat echt bij mij past dan is het gamen (geen stereotype gamer). Ik heb door de jaren heen veel verschillende spellen gespeeld maar er is er eentje waar ik maar niet mee kan stoppen.
 Al sinds 2015 speel ik met veel plezier en ook frustratie de populaire online game League of Legends. Ik vind het leuk om in de avond een paar potjes met vrienden te spelen. Om het persoonlijk te houden wil ik generative art maken dat gebaseerd is op deze game. Een potje League of Legends bestaat vooral uit 30 minuten lang héél véél muisklikken. Ik wil daarom een soort heatmap maken van het spel, waarin je kunt zien waar en hoeveel muisklikken er plaatsvinden.
 
+
+
+
 Features
 
-Elk potje is voorzien van een timer die de duratie van het spel bijhoudt. 
+-Elk potje is voorzien van een timer die de duratie van het spel bijhoudt. 
 
-Elk potje is uniek doordat er elke keer een andere heatmap ontstaat en elke keer een andere winnaar is. 
+-Elk potje is uniek doordat er elke keer een andere heatmap ontstaat en elke keer een andere winnaar is. 
 
-Het spel speelt zich af in 30 seconde waarna er een random winnaar wordt gekozen. 
+-Het spel speelt zich af in 30 seconde waarna er een random winnaar wordt gekozen. 
 
-De game kan worden gerefreshed met een random key. 
+-De game kan worden gerefreshed met een random key. 
+
+
+
+
 
 Onderzoek & inspiratie 
 
