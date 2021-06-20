@@ -68,6 +68,8 @@ Bronnen
 
 https://www.youtube.com/user/shiffman
 
+https://p5js.org/reference/
+
 https://www.esportstips.nl/games/league-of-legends/
 
 https://www.youtube.com/watch?v=BGtROJeMPeE
