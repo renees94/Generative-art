@@ -14,8 +14,8 @@ Minor: Visual Interface Design
 
 
 
+![image](https://user-images.githubusercontent.com/79923265/122690647-186aa100-d22b-11eb-9f4c-69cca818e57f.png)
 
-![image](https://user-images.githubusercontent.com/79923265/122690625-fa04a580-d22a-11eb-80aa-4ed59efc5170.png)
 
 
 
