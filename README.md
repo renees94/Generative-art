@@ -53,6 +53,8 @@ Bronnen
 
 https://www.esportstips.nl/games/league-of-legends/
 
+https://www.youtube.com/watch?v=BGtROJeMPeE
+
 https://www.nytimes.com/interactive/2014/10/10/technology/league-of-legends-graphic.html
 
 https://vwo.com/blog/mouse-heatmap/
