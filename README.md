@@ -66,6 +66,7 @@ Ik heb een lijstje gemaakt met dingen die ik er in wou hebben. De dingen die te 
 Bronnen
 
 
+https://www.youtube.com/user/shiffman
 
 https://www.esportstips.nl/games/league-of-legends/
 
