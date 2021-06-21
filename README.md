@@ -72,6 +72,7 @@ Op zoek naar inspiratie ben ik een artikel van The New York Times tegengekomen w
 
 
 Voortgang
+
 Voordat ik aan deze minor begon had ik nul ervaring met coden. Tijdens het vak web-typography heb ik de basis geleerd… maar daar blijft het dan ook bij. Het is voor mij echt een uitdaging om iets te maken met p5. Om te beginnen heb ik eerst naar generative art voorbeelden gekeken om te kijken wat er mogelijk was. Toen wist ik al vrij snel wat ik ongeveer zou willen en wat het onderwerp en idee voor mij generative art opdracht moest gaan worden.   
 De weken daarna heb ik veel video’s gezien van The Coding Train, maar ik had er voor mijn eigen werk niet zo veel aan. Ik heb eindeloos gezocht naar voorbeelden of codes die mij zouden helpen maar ik kwam niet verder. Ik heb het daarom helaas ook lang uitgesteld 😊. Dingen waar ik tegen aanliep: 
 
@@ -104,7 +105,7 @@ De dingen die te moeilijk waren, of niet mogelijk waren met p5 heb ik laten gaan
 
 Bronnen
 
-
+Heel veel video's van: 
 https://www.youtube.com/user/shiffman
 
 https://p5js.org/reference/
