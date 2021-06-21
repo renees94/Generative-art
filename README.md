@@ -87,10 +87,15 @@ De weken daarna heb ik veel video’s gezien van The Coding Train, maar ik had e
 
 
 Ik heb een lijstje gemaakt met dingen die ik er echt in wou hebben. 
+
 -Plaatje inladen
+
 -Stippen tekenen (x???)
+
 -Heatmap kleuren geven aan stippen
+
 -Timer boven in de hoek
+
 -Victory
 
 De dingen die te moeilijk waren, of niet mogelijk waren met p5 heb ik laten gaan. Met behulp van youtube tutorials, kijken naar andere p5 voorbeelden en de p5 references heb ik mijn art kunnen laten werken. En het uiteindelijke resultaat is toch iets dat heel erg lijkt op wat ik in gedachte had. 
